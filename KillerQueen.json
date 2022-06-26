@@ -1,10 +1,10 @@
 {
     "manifest": {
-        "updater": "https:\/\/raw.githubusercontent.com\/Drownbywind\/Aliu-Themes\/main\/samurai_doge.json",
         "license": "EPL-2.0",
         "name": "Killer Queen",
         "author": "Petit Jean",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/PetitJean1104\/Killer-Queen-\/main\/KillerQueen.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/990577625426718731\/990578376811110451\/t75yZH7_1.png"
