@@ -13,7 +13,8 @@
         "*": "https:\/\/cdn.discordapp.com\/attachments\/990868785483370546\/990888659387564082\/ROLLERALIKA-Regular.ttf"
     },
     "simple_colors": {
-        "blocked_bg": 2132417050
+        "blocked_bg": 2132417050,
+        "background": 2080374784
     },
     "colors": {
         "primary_dark_600": 705828627,
@@ -31,7 +32,7 @@
         "uikit_btn_compound_color_selector_dark": -861568,
         "primary_dark_360": -456806772,
         "primary_dark_400": -1932214416,
-        "uikit_btn_bg_color_selector_green": -691628467,
+        "uikit_btn_bg_color_selector_green": -861568,
         "white_800": -1440471516,
         "primary_700": -1642982383,
         "white_500": -529997,
@@ -76,7 +77,7 @@
         "ic_notifications_off_white_a60_24dp": -420880691,
         "ic_notifications_settings_white_a60_24dp": -420880691,
         "img_logo_wordmark": -420880691,
-        "drawable_button_red": -281325757,
+        "drawable_button_red": -269628075,
         "ic_settings_white_a60_24dp": -420880691,
         "drawable_button_grey": -433510620,
         "drawable_open_folder_dark": 2115445530,
